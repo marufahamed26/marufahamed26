@@ -71,6 +71,10 @@ Database Design | API Integration | Responsive Design
 
 <br/>  
 
+![image](https://github.com/marufahamed26/marufahamed26/assets/49024545/698582ef-3595-4767-b513-4d056a055e3f)
+
+<br/>
+
 [![wakatime](https://wakatime.com/badge/user/65546d4c-c2af-447a-98a0-39e6f4749732.svg)](https://wakatime.com/@65546d4c-c2af-447a-98a0-39e6f4749732)
 
 ![Maruf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marufahamed26&layout=compact)
