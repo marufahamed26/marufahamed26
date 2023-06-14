@@ -33,27 +33,6 @@ Database Design | API Integration | Responsive Design
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working at [Genie InfoTech](https://genieinfo.tech) as a Project Manager & SE  
-  
-
-- 🌱 I’m currently learning Google Project Management: Professional Certificate, AWS and Docker  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
@@ -94,8 +73,7 @@ Database Design | API Integration | Responsive Design
 
 [![wakatime](https://wakatime.com/badge/user/65546d4c-c2af-447a-98a0-39e6f4749732.svg)](https://wakatime.com/@65546d4c-c2af-447a-98a0-39e6f4749732)
 
+![Maruf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marufahamed26&layout=compact)
 
-[![Maruf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marufahamed26&layout=compact)](https://github.com/marufahamed26/github-readme-stats)
 
-
-  
+[![Maruf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marufahamed26)](https://github.com/marufahamed26/github-readme-stats)
