@@ -8,6 +8,12 @@ I am a highly skilled professional with a diverse background in project manageme
 
 Project Management | Software Design | Backend Development |
 Database Design | API Integration | Responsive Design  
+
+- 🌱 I’m currently learning **Programming, Google Project Management, Docker, AWS**
+
+- 💬 Ask me about **PHP, Laravel, Project Management**
+
+- 📫 How to reach me **marufahamed26@gmail.com**
   
 
 <a href="https://github.com/marufahamed26" target="_blank">
@@ -73,7 +79,6 @@ Database Design | API Integration | Responsive Design
 
 <br/>  
 
-
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
@@ -86,5 +91,11 @@ Database Design | API Integration | Responsive Design
 </td></tr></table>  
 
 <br/>  
+
+[![wakatime](https://wakatime.com/badge/user/65546d4c-c2af-447a-98a0-39e6f4749732.svg)](https://wakatime.com/@65546d4c-c2af-447a-98a0-39e6f4749732)
+
+
+[![Maruf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marufahamed26&layout=compact)](https://github.com/marufahamed26/github-readme-stats)
+
 
   
