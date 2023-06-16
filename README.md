@@ -6,8 +6,8 @@
 ### Glad to see you here!  
 I am a highly skilled professional with a diverse background in project management and software engineering. With a proven track record of delivering projects on time and within budget, I excel at communicating with stakeholders, allocating resources, and mitigating risks. My strong technical skills and problem-solving abilities enable me to drive excellence and achieve project success through effective leadership and technical expertise.
 
-Project Management | Software Design | Backend Development |
-Database Design | API Integration | Responsive Design  
+**Project Management | Software Design | Backend Development |
+Database Design | API Integration | Responsive Design**
 
 - 🌱 I’m currently learning **Programming, Google Project Management, Docker, AWS**
 
@@ -78,6 +78,4 @@ Database Design | API Integration | Responsive Design
 [![wakatime](https://wakatime.com/badge/user/65546d4c-c2af-447a-98a0-39e6f4749732.svg)](https://wakatime.com/@65546d4c-c2af-447a-98a0-39e6f4749732)
 
 ![Maruf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marufahamed26&layout=compact)
-
-
-[![Maruf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marufahamed26)](https://github.com/marufahamed26/github-readme-stats)
+(https://github.com/marufahamed26/github-readme-stats)
